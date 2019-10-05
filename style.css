@@ -1,0 +1,386 @@
+.labelstyle{
+	    padding-right: 24px;}
+	div.a {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  padding-left:50px;
+
+}
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+	  .image-upload > input
+{
+    display: none;
+}
+
+.image-upload img
+{
+    width: 40px;
+    cursor: pointer;
+	padding-right:15px;
+}
+.check-center {
+ left:500%;
+}
+.header_top_left{
+
+left:80%;
+
+
+}
+.custom-control-label {
+    position: relative;
+    margin-bottom: 30px;
+    vertical-align: top;
+}
+
+.b{
+
+		border-radius: 30px;
+
+}
+.a {
+    height: 30px;
+    margin-left: 25px;
+}
+.imagess{
+
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+      padding-bottom: 20px;
+}
+.textstyle{
+    width: 200px;
+    border-color: transparent;
+	    padding: 9px;
+		text-align:center;}
+		
+		
+		
+		.btnstyle{
+		width: 254px;
+       
+	    display: block;
+        margin-left: auto;
+       margin-right: auto;
+   
+		}
+ .file{
+	background-color:transparent !important;
+	border:none !important;
+	-webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+	outline: none !important;
+}
+.file-field input[type="file"]{
+	display:none
+}
+.file-field .uploaded { 
+border:none;
+width:300px;
+height:50px;
+color:#000;
+
+
+}
+.card{
+	    width: 150px;
+    height: 150px;	
+}
+
+.card-group {
+    width: 537px;
+    padding: 30px;
+    margin-left: 353px;
+	
+	  
+}
+form.needs-validation.bg-white.contaıner {
+    padding-right: 80px;
+    
+    margin: auto;
+    margin-top: 2%;
+    background: white;
+    padding-left: 80px;
+    /* padding: 0 7%; */
+}
+@media screen { 
+	.print-select   { display:none; }
+}
+@media print { 
+	.print-select   { padding:10px; /* width:40%; */ border:1px solid #ccc; }
+}
+.file-field .uploaded::before{
+	
+    content: url("images/Group 1534.png") !important ;
+	
+}
+.file-field .btn::before{
+	
+    content: url("images/Group 1534.png") !important ;
+	
+}
+
+
+.box-upload{
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+
+.button-cont {
+	margin-bottom:20px;
+	}
+	
+.footer {
+    background-color: black;
+	    margin-top: 80px;
+}
+
+	
+
+.navbar ul {
+	letter-spacing:5px;
+	padding-right:400px;
+}
+
+.navbar ul li { 
+ display: inline-block;
+}
+.btn-danger{
+	    margin-bottom: 19px;
+   
+    margin-left: 50%;
+    margin-right: 50%;
+	
+}
+
+
+.check-center {
+left: 0 !important;
+    position: relative;
+}
+.custom-control.custom-checkbox {
+    margin-left: 72%;
+    text-align: right;
+}
+.file-field .uploaded::before {
+    content: url(images/Group 1534.png) !important;
+    float: left;
+}
+span.box-upload {
+    padding: 10px;
+    border-radius: 30px;
+}
+form.md-form {
+    /* margin-top: 20px; */
+    padding-top: 30px;
+}
+.body{
+	
+	background-color:transparent;
+	
+}
+.menu-button{display:none !important;}
+@media screen and (max-width: 992px) {
+ .menu-button{display:block !important;}
+ .nav{display:none !important;
+ }
+}
+.menu-button{
+	    width: 41px;
+    height: 30px;
+}
+@media screen and (max-width: 500px) {
+ .img-body{
+    width: 100%;
+	height:auto;
+    padding-right: 389px;
+    padding-left: 243px;
+	padding-bottom: 7px;
+    padding-top: 96px;
+    margin-right: auto;
+    margin-left: auto;
+}
+}
+.dropstyle{
+	border:2px solid  #0544a4 !important;
+	border-radius:6px !important;
+	padding:20px;
+	
+}
+.row.dropstyle{
+	
+	    margin-right: -10px;
+    margin-left: 136px;
+    padding-top: 11px;
+   
+    width: 205px;
+    height: 48px;
+}
+
+select{
+ border:transparent !important;
+	border-radius:6px !important;
+	color:#0544a4 !important;
+}
+select::-ms-expand {
+     display: none !important;
+}
+select:before {
+  content: "▼"!important;
+  color:blue!important;
+  padding: 12px 8px !important;
+  position: absolute !important;
+  right: 10px !important;
+  top: 0 !important;
+  z-index: 1 !important;
+  text-align: center !important;
+  width: 10% !important;
+  height: 100% !important;
+  pointer-events: none !important;
+}
+	
+	
+}
+form.needs-validation.bg-white.contaıner{
+	width:0% !important;
+}
+.label-style{
+	
+      margin-left: auto;
+    margin-right: auto;
+    width: 60em;
+	
+	
+	
+	
+}
+.form-label-style{
+	
+ 
+    border-radius: 5px !important;
+    width: 316px !important;
+	color:black !important;
+	    border: 1px solid #21252982 !important;
+		height:35px;
+	}
+	
+	
+
+@media screen and (max-width: 500px) {
+ .btn-disp{
+   display:block !important;
+}
+}
+@media screen and (max-width: 500px) {
+ .form-label-style{
+	 height:auto;
+	 width:200px;
+	 margin:0;
+	 
+ }
+
+}
+.drop-style{
+	
+	    margin-right: -15px;
+    margin-left: -15px;
+		border:2px solid  #0544a4 !important;
+	border-radius:6px !important;
+	    padding: 1px;
+    width: 197px;
+	
+}
+
+
+ .input-icons i { 
+            position: absolute; 
+        } 
+          
+        .input-icons { 
+            width: 100%; 
+            margin-bottom: 10px; 
+        } 
+          
+        .icon { 
+            padding: 10px; 
+            min-width: 40px; 
+			color: blue;
+        } 
+          
+        .input-field { 
+              width: 100%;
+    padding: 4px;
+    text-align: right;
+    border-color: blue;
+        }
+		
+		
+		
+		
+		.card-style{
+		 width: 98%;
+    height: 98%;
+    border-color: blue !important;
+    text-align: left;
+			
+		}
+		.stylbtn{
+			
+			    width: 225px;
+				margin-left: 0px;
+			
+		}
+		.stylbtn2{
+			
+			    width: 145px !important;
+				margin-left: 0px;
+			
+		}
+		
+		
+		
+		.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+@media screen and (max-width: 500px) {
+ .stylbtn2{
+   margin-bottom:15px !important;
+}
+.stylbtn{
+   margin-bottom:15px !important;
+}
+.drop-style{
+	
+	   margin-bottom:15px !important;
+	
+	
+}
+
+
